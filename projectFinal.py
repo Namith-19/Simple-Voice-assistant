@@ -9,7 +9,7 @@ import time
 
 
 global LbUpdate
-apiKey="AIzaSyAeJV1A2etK857iMC2hMpekPKeCodkLObA"
+apiKey="<YOUR API KEY>"
 
 recog=sr.Recognizer()
 txt_to_speech=pyttsx3.init()
